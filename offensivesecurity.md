@@ -1,5 +1,7 @@
 # Offensive Security
 
+# TEMPLATE ONLY --- USE THIS TEMPLATE ------ TITLE GOES HERE!
+
 STEPS TO CREATE A PAGE:
 1. Copy this page - Top right click on PENCIL icon to edit, copy this markdown page or click on RAW to copy the markdown page.
 2. Create a new file - on the left navigation, click on the PLUS sign to add a new page.
