@@ -1,4 +1,4 @@
-# Offensive Security
+# Offensive Security - SUBTITLE GOES HERE!
 
 # TEMPLATE ONLY --- USE THIS TEMPLATE ------ TITLE GOES HERE!
 
